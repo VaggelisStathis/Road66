@@ -1,16 +1,33 @@
 .brand{
-	font-family: Paytone One;
-	/* font-size: 1.2rem; */
+	font-family: 'Cookie', cursive;
+	 font-size: 1.6rem;
 }
-/* body{
+ body{
 	font-family: source sans pro;
-	max-width: 700px;
+	background-color: #bdbdbd;
+	/* max-width: 700px;
 	width: 80%;
 	margin:20px auto;
 	border:20px solid #bdc3c7;
-	padding: 20px;
+	 padding: 20px; */
+}
+.btn-outline-light{
+	color:rgba(255,255,255,0.5);
+	border-color:rgba(255,255,255,0.5);
 }
 
+.navbar{
+background: darkblue;
+font-family: 'Vollkorn', serif;
+}
+.dropdown-menu{
+ background: darkblue;
+}
+
+.dropdown-item{
+ color:rgba(255,255,255,0.5);
+}
+/*
 h3{
 	color: #3498db;
 	text-transform: uppercase;
